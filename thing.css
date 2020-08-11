@@ -1,3 +1,4 @@
+@media (min-width: 768px)
 body {
-background: url("https://images3.alphacoders.com/906/thumb-1920-906873.jpg");
+background: url("https://images3.alphacoders.com/906/thumb-1920-906873.jpg") 100% 100%;
 }
